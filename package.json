@@ -1,0 +1,27 @@
+{
+  "name": "com.le0der.json",
+  "version": "1.0.0",
+  "displayName": "JSON Toolkit",
+  "description": "A lightweight JSON helper for Unity, offering serialization and deserialization utilities.",
+  "unity": "2020.3",
+  "author": {
+    "name": "le0der",
+    "email": "le0der@163.com",
+    "url": "https://le0der.top"
+  },
+  "dependencies": {},
+  "keywords": [
+    "json",
+    "mono",
+    "tools",
+    "unity"
+  ],
+  "license": "Apache-2.0",
+  "licensesUrl": "https://github.com/le0der-tools/com.le0der.json?tab=Apache-2.0-1-ov-file",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/le0der-tools/com.le0der.json.git"
+  },
+  "documentationUrl": "https://github.com/le0der-tools/com.le0der.json.git",
+  "changelogUrl": "https://github.com/le0der-tools/com.le0der.json/blob/main/CHANGELOG.md"
+}
